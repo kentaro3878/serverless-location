@@ -17,6 +17,6 @@
     "serverless-offline": "^3.16.0"
   },
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
